@@ -1,2 +1,3 @@
--if u see this its just down nothing much?
+--if u see this its just down nothing much?
+print("down")
 game.Players.LocalPlayer:Kick("HoodRez Is Currently Patched Because Da Hood Updated.")
